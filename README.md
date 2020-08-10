@@ -3,5 +3,5 @@
 - [x] Town of the Fishermen
 - [x] Coal-Mining Town
 - [x] Kujara Ranch
-- [ ] Ranch Summit
+- [x] Ranch Summit
 - [ ] Donglin Forest
