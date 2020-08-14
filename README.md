@@ -1,7 +1,26 @@
 # Tomba! 2 OST
 
 - [x] Town of the Fishermen
+- [ ] Pipe Area
+  - [ ] Pipe Area - Purified
 - [x] Coal-Mining Town
+  - [ ] Coal-Mining Town - Purified
 - [x] Kujara Ranch
+  - [ ] Kujara Ranch - Purified
 - [x] Ranch Summit
+  - [ ] Ranch Summit - Purified
 - [ ] Donglin Forest
+  - [ ] Donglin Forest - Purified
+- [ ] Laughing/Crying Forest
+  - [ ] Laughing/Crying Forest - Purified
+- [ ] Circus Village
+  - [ ] Circus Village - Purified
+- [ ] Water Temple
+  - [ ] Water Temple - Purified
+- [ ] Evil Pig Battles
+- [ ] Last Evil Pig Battle
+- [ ] Mythical Towers
+- [ ] Tiny Mouse's House
+- [ ] Trolley Ride
+- [ ] Washing Kujara
+- [ ] Berry Nut Gathering
