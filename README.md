@@ -13,8 +13,8 @@
   - [ ] Donglin Forest - Purified
 - [ ] Laughing/Crying Forest
   - [ ] Laughing/Crying Forest - Purified
-- [ ] Circus Village
-  - [ ] Circus Village - Purified
+- [x] Circus Village
+  - [x] Circus Village - Purified
 - [ ] Water Temple
   - [ ] Water Temple - Purified
 - [ ] Evil Pig Battles
